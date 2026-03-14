@@ -15,3 +15,6 @@ fixing a broken github actions workflow and setting up automated testing for an 
 4. run flake8 linter
 5. test torch import
 6. upload README as artifact
+
+## green check
+![actions](Screenshot%202026-03-15%20001628.png)
